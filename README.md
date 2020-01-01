@@ -20,7 +20,7 @@ adoption by defining an "adopted user" as a user who has logged into the product
 
  
 5.  Heights and Weights Using Logistic Regression:
-[Project Link] (https://github.com/aspiringdatascientist/SB_ML/blob/master/Mini_Project_Logistic_Regression%20-%20Copy.ipynb)
+[Project Link](https://github.com/aspiringdatascientist/SB_ML/blob/master/Mini_Project_Logistic_Regression%20-%20Copy.ipynb)
 
 6. Predicting Movie Ratings from Reviews Using Naive Bayes:
 [Project Link](https://github.com/aspiringdatascientist/SB_ML/blob/master/Mini_Project_Naive_Bayes.ipynb)
