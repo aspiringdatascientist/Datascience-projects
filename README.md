@@ -11,3 +11,6 @@ Ultimate Technologies Inc. is an American worldwide online transportation networ
 Relax Inc. makes productivity and project management software that's popular with both individuals and teams. Founded by several former Facebook employees, it's considered a great company to work at. The challenge is to identify  which  factors  predict  future  user
 adoption by defining an "adopted user" as a user who has logged into the product on 3 separate days in at least one 7-day period.
 [Project Link](https://github.com/aspiringdatascientist/Datascience-projects/blob/master/relax_challenge.ipynb)
+
+3. Spark DF, SQL, ML Exercise
+[Project link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/245497729593797/779514714461127/7443804034581037/latest.html)
