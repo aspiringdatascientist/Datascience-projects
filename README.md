@@ -27,3 +27,6 @@ adoption by defining an "adopted user" as a user who has logged into the product
 
 7. Customer Segmentation Using Clustering:
 [Project Link](https://github.com/aspiringdatascientist/SB_ML/blob/master/Mini_Project_Clustering.ipynb)
+
+8) Spark ETL and data wrangling using Spark SQL:
+[Project Link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/245497729593797/779514714461127/7443804034581037/latest.html)
